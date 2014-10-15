@@ -1,0 +1,93 @@
+@charset "utf-8";
+/* CSS Document */
+
+#longLeadForm	{
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	color:#333;
+	border:1px solid #000;
+	padding:10px;
+	width: 700px;
+}
+
+.sectionBreak	{
+	border:1px solid #000;
+	padding:10px;
+	margin-bottom:10px;
+	clear:both;
+	background-color: #CCC;
+}
+
+.float	{
+	float:left;
+}
+
+.curFocus	{
+	background-color:#999;
+}
+
+.input	{
+	float:left;
+	padding-right: 20px;
+	width: 210px;
+}
+
+.inputSmall	{
+	float:left;
+	padding-right:15px;
+	width:100px;
+}
+
+.label	{
+	float:left;
+	padding-left: 5px;
+	width: 100px;
+	line-height:20px;
+	height:30px;
+	vertical-align:middle;
+}
+
+.labelSmall	{
+	float:left;
+	padding-left:15px;
+	width:60px;
+	line-height:20px;
+	height:30px;
+	vertical-align:middle;
+}
+
+.labelLarge	{
+	float:left;
+	padding-left:15px;
+	width:150px;
+}
+
+.labelExtraLarge	{
+	float:left;
+	padding-left:15px;
+	width:275px;
+}
+
+.submitButton	{
+	text-align:center;
+}
+
+.clear	{
+	clear:both;
+}
+
+.formDisclaimer	{
+	padding:20px;
+	font-size:11px;
+	text-align:center;
+	color:#666;
+}
+
+.text	{
+	text-align:left;
+	font-size:11px;
+}
